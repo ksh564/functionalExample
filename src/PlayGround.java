@@ -3,7 +3,7 @@ import java.util.function.*;
 public class PlayGround {
     public static void main(String[] args) {
 
-//        1급 시민의 조건
+//      프로그래밍에서 1급 시민의 조건
 //
 //        1.함수/메서드의 매개변수로 전달될 수 있는가?
         inputFunction( t -> System.out.println(t), "Hello World");
