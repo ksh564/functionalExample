@@ -1,6 +1,6 @@
 package FunctionalInterface.ch10;
 
-import FunctionalInterface.ch6.model.User;
+import FunctionalInterface.ch10.model.User;
 
 public abstract class AbstractUserService {
     protected abstract boolean validateUser(User user);
