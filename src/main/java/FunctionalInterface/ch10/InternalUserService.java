@@ -1,4 +1,4 @@
-package FunctionalInterface.ch8;
+package FunctionalInterface.ch10;
 
 import FunctionalInterface.ch6.model.User;
 

@@ -1,10 +1,6 @@
-package FunctionalInterface.ch8;
+package FunctionalInterface.ch10;
 
 import FunctionalInterface.ch6.model.User;
-
-import java.util.Collection;
-import java.util.List;
-import java.util.Set;
 
 public class UserService extends AbstractUserService {
 
